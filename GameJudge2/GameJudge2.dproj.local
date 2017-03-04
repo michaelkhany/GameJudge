@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/06/16 04:23:18.000.526,=C:\Users\Guest1\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/08/01 22:59:25.000.902,=C:\Users\Guest1\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/08/26 22:48:56.000.865,=C:\Users\Guest1\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/08/26 22:49:47.000.100,=C:\Users\Guest1\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/02/24 01:16:01.000.223,=C:\Users\Guest1\Documents\RAD Studio\Projects\GroupedItems1.pas</Transaction>
+    <Transaction>2017/02/24 01:16:02.000.062,=C:\Users\Guest1\Documents\RAD Studio\Projects\SplitItemDetail1.pas</Transaction>
+    <Transaction>2017/02/24 01:18:50.000.615,=C:\Users\Guest1\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/03/03 16:05:55.000.000,=C:\Users\Guest1\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/03/03 16:06:20.000.264,C:\Users\Guest1\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\Guest1\Documents\RAD Studio\Projects\GameJudge2\Unit1.pas</Transaction>
+    <Transaction>2017/03/03 16:06:20.000.264,C:\Users\Guest1\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\Guest1\Documents\RAD Studio\Projects\GameJudge2\Unit1.dfm</Transaction>
+    <Transaction>2017/03/03 16:06:23.000.440,C:\Users\Guest1\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\Guest1\Documents\RAD Studio\Projects\GameJudge2\GameJudge2.dproj</Transaction>
+    <Transaction>2017/03/03 16:28:15.000.060,=C:\Users\Guest1\Documents\RAD Studio\Projects\GameJudge2\Unit2.pas</Transaction>
+    <Transaction>2017/03/03 16:28:34.000.117,C:\Users\Guest1\Documents\RAD Studio\Projects\GameJudge2\Unit2.pas=C:\Users\Guest1\Documents\RAD Studio\Projects\GameJudge2\tst.pas</Transaction>
+    <Transaction>2017/03/03 23:20:39.069,C:\Users\Guest1\Documents\RAD Studio\Projects\GameJudge2\tst.pas=</Transaction>
+    <Transaction>2017/03/04 03:59:53.590,=C:\Users\Guest1\Documents\RAD Studio\Projects\GameJudge2\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>
